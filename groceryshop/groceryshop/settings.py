@@ -88,7 +88,7 @@ TEMPLATES = [
     },
 ]
 
-WSGI_APPLICATION = 'groceryshop.wsgi.application'
+WSGI_APPLICATION = 'groceryshop.groceryshop.wsgi.application'
 
 
 # Database
